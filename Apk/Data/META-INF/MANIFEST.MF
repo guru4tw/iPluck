@@ -1,0 +1,77 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: BY8v5NOloq8Tbys2jnqc4ul3Dok=
+
+Name: lib/arm64-v8a/libAkSoundEngine.so
+SHA1-Digest: UE34zey5VDLh7+Dafk1/z6F0ddY=
+
+Name: lib/arm64-v8a/libFirebaseCppAnalytics.so
+SHA1-Digest: CMS+psKU6RlCA46Gz1o0YpvtVLQ=
+
+Name: lib/arm64-v8a/libFirebaseCppApp-12_10_0.so
+SHA1-Digest: 5ElgUDZc3Gei5RIPEvih5hoiB7I=
+
+Name: lib/arm64-v8a/libFirebaseCppCrashlytics.so
+SHA1-Digest: AX/wiL8flybGB2cXpQAdt6cKwmc=
+
+Name: lib/arm64-v8a/libFirebaseCppMessaging.so
+SHA1-Digest: uT5Kzsu+j9lYaJ2AWw06Dky6YvU=
+
+Name: lib/arm64-v8a/libNianticLabsPlugin.so
+SHA1-Digest: Ne+uEzB0NvR8OUCarPoDX23SA1Y=
+
+Name: lib/arm64-v8a/libUnityARCore.so
+SHA1-Digest: LTLpdheAO/HUdMsJDVe/3sx9II0=
+
+Name: lib/arm64-v8a/lib_burst_generated.so
+SHA1-Digest: 2tdzb02rJiRjDm/cQPvsn6KxCj8=
+
+Name: lib/arm64-v8a/libarcore_sdk_c.so
+SHA1-Digest: BfWv1GRdywF6RUs581ukOFk8PUg=
+
+Name: lib/arm64-v8a/libarcore_sdk_jni.so
+SHA1-Digest: BHtLDX4hBM0c2C7lAqR6EjsPLhU=
+
+Name: lib/arm64-v8a/libarpresto_api.so
+SHA1-Digest: xh3ZvYHiWMG7ASMqA2yVZr/x0/Y=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: mOq8HfMIfNFxLcT30TyWfyGiEPw=
+
+Name: lib/arm64-v8a/libcrashlytics-common.so
+SHA1-Digest: ESVMpJcwi4WSEosGfX/YQx8hyxk=
+
+Name: lib/arm64-v8a/libcrashlytics-handler.so
+SHA1-Digest: flk2cLX04uPi5ro9sM3w92FdtyU=
+
+Name: lib/arm64-v8a/libcrashlytics-trampoline.so
+SHA1-Digest: O9IO3kZACn46zhtFA7rTOvsu/Qo=
+
+Name: lib/arm64-v8a/libcrashlytics.so
+SHA1-Digest: XqU4Dxglg/iTpO0PXkS/HmVbr9o=
+
+Name: lib/arm64-v8a/libdatastore_shared_counter.so
+SHA1-Digest: CV4WlQQMDBlkJLNYR0xKgZjKOsk=
+
+Name: lib/arm64-v8a/libichigonative.so
+SHA1-Digest: r47Cqnma2KcTNS9JH8Q/a5Rsks0=
+
+Name: lib/arm64-v8a/libil2cpp.so
+SHA1-Digest: dXOhoarsQOFAv5E/NQ0KobCqFeM=
+
+Name: lib/arm64-v8a/libmain.so
+SHA1-Digest: S/X/06UpG0D8VjvKq3HFqlSy2ms=
+
+Name: lib/arm64-v8a/libsqlite3.so
+SHA1-Digest: FonlxysWGPh33/9pPBwgAi+zJxs=
+
+Name: lib/arm64-v8a/libswappywrapper.so
+SHA1-Digest: OoxRg6aRizdplF9pYNHXkWAxHTA=
+
+Name: lib/arm64-v8a/libunity.so
+SHA1-Digest: F21yAnARYrsZIjnkCF1rRSbalXw=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

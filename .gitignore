@@ -1,0 +1,27 @@
+# third-party binaries and keys from the unpacked APK
+*.dex
+*.so
+*.apk
+*.apks
+*.xapk
+*.zip
+*.unity3d
+*.bnk
+*.dat
+*.bundle
+*.prof
+*.profm
+*.bin
+*.png
+*.jpg
+*.ogg
+*.mp3
+*.wem
+*.ttf
+*.otf
+google-services*.json
+unity default resources
+assets/com/appsflyer/
+*.RSA
+*.SF
+.env

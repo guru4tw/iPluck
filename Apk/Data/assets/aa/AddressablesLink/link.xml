@@ -1,0 +1,1535 @@
+<linker>
+  <assembly fullname="AdvancedInputField, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField" preserve="all" />
+    <type fullname="AdvancedInputFieldPlugin.InputFieldKeyboardClient" preserve="all" />
+    <type fullname="AdvancedInputFieldPlugin.ScrollArea" preserve="all" />
+    <type fullname="AdvancedInputFieldPlugin.TextSelectionRenderer" preserve="all" />
+    <type fullname="AdvancedInputFieldPlugin.UnityTextRenderer" preserve="all" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/ActionBarItemClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/BeginEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/CaretPositionChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/SelectionChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/SizeChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/SpecialKeyPressedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/TextSelectionChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.AdvancedInputField/ValueChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="AdvancedInputFieldPlugin.ScrollArea/ScrollRectEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="AK.Wwise.Unity.API.WwiseTypes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="WwiseEventReference" preserve="all" />
+    <type fullname="AK.Wwise.Event" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="AK.Wwise.Unity.MonoBehaviour, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AkGameObj" preserve="all" />
+    <type fullname="AkGameObjListenerList" preserve="nothing" serialized="true" />
+    <type fullname="AkGameObjPositionOffsetData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Niantic.Ichigo.App.ParentalControl.DisableUnlessParentalControlPermission" preserve="all" />
+    <type fullname="Niantic.Ichigo.App.ParentalControl.ToastUnlessParentalControlPermission" preserve="all" />
+    <type fullname="Niantic.Ichigo.Effects.IikVfx.PikminVfxEventMapping" preserve="all" />
+    <type fullname="Niantic.Ichigo.Effects.IikVfx.VfxAnimationEventReceiver" preserve="all" />
+    <type fullname="Niantic.Ichigo.Effects.IikVfx.VfxBrain" preserve="all" />
+    <type fullname="Niantic.Ichigo.Experimental.Images.MultiColorImage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Experimental.Images.RoundedImage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Experimental.Images.UberGraphic" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Achievement.AchievementUnlockFeatureCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Achievement.AchievementUnlockFeatureEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Achievement.BadgeRegistrationSequence.AchievementDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Achievement.BadgeRegistrationSequence.AchievementUnlockFeatureDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ActiveEventBonus.ActiveEventBonusCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ActiveEventBonus.ActiveEventBonusDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ActiveEventBonus.ActiveEventBonusListItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ActiveEventBonus.ActiveEventBonusView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.ActiveForAdventureMapStateFlag" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.CategoryIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.CategoryIconButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.DowserDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.DowserDialogHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.DowserInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.DowserSearchEffect" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.TreasureTextGenerator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterChangeColorOnPlantFlower" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterCurrentCount" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterRemainingTime" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterShowWhenBoosting" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterStartFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterTutorialDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.FlowerBottleViewUnit" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.ColorChangeOnPlantFlower" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.FlowerBottleEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.Inject.PlantFlowerSelectorInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PetalSort.PetalSortButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PlantFlowerControlButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PlantFlowerMenuButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PlantFlowerSelector" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PlantFlowerSelectorHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PlantFlowerTimer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.PossessedExtract" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.UI.PlantFlowerSelector.WithOthersControlButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.VisibleForAdventureMapStateFlag" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.WideAreaMap.WideAreaMapAnnotationLayerSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotatedMapImpl" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotatedMapViewController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationContextInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Annotations.LifelogMapIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Annotations.MyLocationAnnotation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.ClusteredLocationAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.GridAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.Lifelog.ClusteredLifelogV5AnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.NoPlantingZoneAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.PlantedFlowerMaskAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.Postcard.ClusteredPostcardAlbumItemAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.Postcard.ClusteredPostcardAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.StreetStroll.StreetStrollVisitedPoiCampaignAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.AnnotationSources.VisitedMaskAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.LifelogPicker.LifelogPickerItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.LifelogPicker.LifelogPickerPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.LifelogPicker.LifelogPickerPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PikminList.PikminListPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardAlbum.PostcardDetailPageAlbumItemIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardAlbum.PostcardDetailPageAlbumSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardAlbum.PostcardDetailPageAlbumSectionIconView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardDetailPageV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardDetailPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardDetailPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardPickerItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardPickerPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardPickerPanelHeaderController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardPickerPanelHeaderView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardPickerPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardPickerView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardSelectionHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardSelectionSounds" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.Sort.PostcardSortButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Announcement.EventAnnouncementDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Announcement.MonthlyMissionAnnouncementDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Announcement.NewsAnnouncementDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Announcement.StarChallengeAnnouncementModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Announcement.YearlyLookbackAnnouncementDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ARUtils.ARSnapNotificationBadge" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ARUtils.SeePikminInARButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarBlinkController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarFacialExpressionController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarModel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalogSwitcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitExclusionCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitPresetCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.Sway.FloatersBehaviorController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.Sway.FloatersSwayAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.Sway.FloatersWaveAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.TransitionToAvatarEditorButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AvatarEditor.OutfitNameCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AvatarEditor.V5.AvatarPartName" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.AvatarEditor.V5.PartPriceController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionCompleteAnimationGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionCompleteAnimationText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionCompleteLineAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionTitle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionUI" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionWindowCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionWindowInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaAssetCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaCard" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaCollectionView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaCollectionWindow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaRow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongAssetCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongCollectionView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongCollectionWindow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongRow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongTile" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionFrameView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionPieceView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionWindow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.Card" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.CardRow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.TrumpAssetCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.TrumpCollectionView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.TrumpCollectionWindow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.PictureBookDependencies" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.PictureBookPikminIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.PictureBookPikminIconRareEffect" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.PictureBookPikminIconReveal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.PictureBookRevealAnimationSettings" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.EmbeddedPictureBookCardView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookCardView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookCategoryView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookCategoryViewMultiSelectFooter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookCategoryViewOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookPikminFilterEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookPikminTitleEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookRegisterView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookTreasureContainer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2CategoryHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2CategoryIconLevel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2CollectionViewButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2Controller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2Header" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2TotalCounter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PikminCategoryLevelProgressBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIconCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CameraPhoto.CameraPhotoButtons" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CameraPhoto.CameraPhotoPicker" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.ChallengeJoiningPlayerIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.FriendChallenge.Assets.FriendChallengeIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.FriendChallenge.FriendChallengeMilestones" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.AnywhereMushroomBanner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.AttackingPikminIconMap" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.AttackingPikminsDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.ChallengeListMushroomItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.CylindricalSurfaceSegment" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.DebrisController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.DisableAnimatorOnIdle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.ExpeditionBlockerScene.MushroomInvitingMegaphoneUseFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.FinishSequence.TitleAward.ShadowedText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Invite.MushroomInviterDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Invite.TicketUI.MushroomInviteTicketCountText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Invite.TicketUI.MushroomInviteTicketInsufficientDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Invite.TicketUI.MushroomInviteTicketViewButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Invite.TicketUI.MushroomInviteTicketViewDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomCatalogSwitcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomChallengeIncreaseChallengerInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomChallengeJoiningPlayersViewV3" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomChallengeListView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomChallengeUnclaimedRewardsNotification" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomSfx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomSlot" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomSurface" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.PoiBlockerModelCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.PoiMushroom" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.PoiMushroomIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.SingleMushroom" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.SingleMushroomIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketCurrentCount" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketTutorialDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketViewButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketViewDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.WaterSurface" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.TicketGetFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.TicketSparkleFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.TicketThrowFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.CostumeTicketHelpButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.CostumeTicketIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.CostumeTicketPanelListItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.CostumeTicketPurchasableItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.CostumeTicketPurchasableItemsPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.CostumeTicketPurchasableItemsPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.CostumeTicketTutorialButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.OwnedCostumeTicketsPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.Panel.OwnedCostumeTicketsPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.CostumeTicket.UI.UseCostumeTicketButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.DailyLookBackV2.MapBrushController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.CommonUI.EventBanner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.CommonUI.EventBannerExpirationRibbon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.EventFeaturedItemsSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.EventProgressViewBackground" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.EventSectionBanner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.EventSeedlingIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.FriendChallenge.FriendChallengeTicketViewDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.Catalog.MonthlyMissionEventCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.CommonUI.MonthlyMissionStageColored" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.CommonUI.RewardSelectionSpriteDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.CommonUI.Roulette.MonthlyMissionAutomaticRouletteConfirmationDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.EventPass.MonthlyMissionEventPassBenefitsCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.EventPass.MonthlyMissionEventPassOfferDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.Notification.MonthlyMissionTaskNotification" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.Notification.MonthlyMissionTaskNotificationInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.MultipleRewardIconView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.ParticipationBenefits.RealEventParticipationBenefitsButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.ParticipationBenefits.RealEventParticipationBenefitsDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Events.ParticipationBenefits.RealEventParticipationBenefitsItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.Annotations.ExpeditionAnnotationSource" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExpeditionCompleterInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExpeditionCompleteTicketUseFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExpeditionCompleteTicketUseFxFactory" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketCurrentCount" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketInsufficientText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketUseCountText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketUseDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketViewDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteUseButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.Data.PoiRewardExpeditionSpawn" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DecoGiftDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionCalculation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionDetailPageInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionDetailPageV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionDetailPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionDetailPanelFloatingButtons" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionDetailPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionPreview" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ExpeditionItemIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ExpeditionSpawnView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.PlantingRecord.PlantingRecordMap" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.PlantingResultDialog.FlowerPlantingBloomedPoiEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.PlantingResultDialog.FlowerPlantingBonusEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.PlantingResultDialog.FlowerPlantingFoundExpeditionView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.PlantingResultDialog.FlowerPlantingFoundSeedEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.PlantingResultDialog.FlowerPlantingResultDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.StartPlantingDialog.PlantFlowerStartedOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.AR.Gallery.ARPhotoGallery" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.AR.Gallery.ARPhotoGalleryInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.AR.PositionAdjustor.GardenARPikminPositionMarker" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.Extracts.ExtractBallDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.GardenBirthSequenceController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.GardenBirthSequenceControllerInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.GardenBirthSequencePostcardController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Garden.PikminGreetingAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.GiftingV2.GiftBundleModel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Home.HomePikminNoticeEffect" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.EasterEggDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GeneralGiftBoxCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GeneralGiftBoxDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GeneralGiftBoxDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemDialogHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemDialogItemFrame" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ItemSelectItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ItemSelectSequence" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ItemSelectSequenceV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ObtainMethod.ItemObtainMethodDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ObtainMethod.ItemObtainMethodLinkButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ObtainMethod.ItemObtainMethodListItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.CollectedCheckIconSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.ItemSelectFinalRewardView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.ItemSelectSequenceInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.RewardSelectionItemLayout" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.SelectableRewardDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.SelectableRewardOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.SelectableRewardOverlayInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.SelectableRewardPreviewDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.SelectableSeedlingRewardDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.DayBasicInfos.DayBasicInfoSteps" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.DayBasicInfos.StepDecorationCrown" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Decorations.LifelogDecorationFlowerPlantingIcons.LifelogDecorationFlowerPlantingIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Decorations.LifelogDecorationFlowerPlantingIcons.LifelogDecorationFlowerPlantingIconCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Decorations.LifelogDecorationFlowerPlantingIcons.LifelogDecorationFlowerPlantingIconInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogDateInput" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogEntryCancelButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogEntrySaveButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogLocationInput" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogPhotoInput" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogStickerInput" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Input.LifelogTextInput" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogCalendarTabActivator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogCalendarTabTriggerV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogCalendarV2Installer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogEnhancedScrollerPadding" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogFavoriteStarFx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogLightbox" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogPhotoText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogV5RootPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogWeeklyCalendar" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LocationPin" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.LifelogDetailModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.LifelogEditModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.LifelogEditModalInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.LifelogEditModeSelectModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.LifelogLocationInputModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.Parts.LifelogLocationInputButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Modals.PikminDetailModalInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.MonthlyCalendarOpenDatePickerButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.MonthlyCalendarSelectedMonthLabel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.MonthlyCalendarTodayButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.MonthlyCalendarWidgetV2Controller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.OnlyActiveInLifelog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.DayPicker.DayOfMonthSelector" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.DayPicker.MiniPanelDayPicker" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.DayPicker.MiniPanelDayPickerFactory" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.DayPicker.WeeklyRow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.MoodPicker.MiniPanelMoodPicker" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.MoodPicker.MoodPickerButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.MoodPicker.MoodPickerInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.StickerPicker.MiniPanelStickerPicker" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.StickerPicker.MiniPanelStickerPickerFactory" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.StickerPicker.StickerButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.StickerPicker.StickerSelector" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.PikminDetailFeedButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.SeedlingActionOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Sound.PlayLifelogSoundOnClick" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Sound.PlayLifelogSoundOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapDecoration.GrassMapDecorator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapDecoration.GrassMapObject" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapDecoration.MapDecoratorCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapDecoration.SunShaftsMapDecorator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapDecoration.SunShaftsMapObject" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapBillboard" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapPoiCampaigns.CampaignLogo" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapPoiCampaigns.ParticleEffectReEnabler" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapPoiCampaigns.PoiCampaignModel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapPoiFlowers.PoiModel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapPoiFlowers.PoiModelEffectHolder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Mii.AvatarStage.AvatarStage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Mii.AvatarStage.AvatarStageAvatarSpawner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Mii.AvatarStage.AvatarStageInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Mii.AvatarStage.AvatarStagePikminSpawner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.News.NewsBanner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.OnboardingV2.DisableUnlessOnboarding" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.OnboardingV2.OnboardingBlocker" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.BatchManagement.PikminBatchManageMenu" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.BatchManagement.PikminReleaseConfirmDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.BatchManagement.PikminReleaseListInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Entries.DisabledPikminVisual" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Entries.PikminListLineEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Entries.PikminListStandbyHeaderEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Entries.PikminListTroopHeaderEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Entries.SelectablePikminListEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Filter.PikminManagementAllFilter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Filter.PikminManagementStandbyFilter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.Inject.PikminManagementInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementDetailView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementFeedButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementFlowerIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementHeaderWarning" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminManagementV2.PikminManagementSortButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.CategoryIconHelpButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.EditPikminNameDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminDetailsFriendshipBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminDetailsFriendshipTutorial" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminDetailsPageZoomButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminDetailsPikminStageController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminLocationText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewDisplayV3" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewFavoriteToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewFlowerIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewFlowerSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewInfoSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewLifelogPhotoSectionV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewLifelogPhotoV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPageDispatcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPageInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPanelFloatingButtons" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPanelInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPelletActions" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPelletRecycleAction" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPikminActions" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewPikminReleaseAction" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewReleaser" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewShareButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewState" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminOrSeedDetailsViewTitle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.PikminViewPinchToZoom" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.ResetPikminNameDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.SeedView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.ShowForLifelogSimpleViewSeed" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminOrSeedDetailsView.SquadToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminAnimatorControllerCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminAnimatorControllerCatalogSwitcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminAnimatorControllerForEventCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminFeedButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMaterialAnimationController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMeshCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMeshCatalogSwitcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminSpringBoneAnimationController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.RarePikminEffectPlayer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardRendererStage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardSpace" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareViewOverlayDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareViewOverlayDialogInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Planter.PikminShadowUnit" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthAnimationController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthAnimationDetailController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthLandingPosition" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthPictureBookWindowV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthSequence.PlanterBirthSequenceSpace" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthSequenceCameraController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthSoundUnit" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.NoSeedPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.PlanterBirthSequenceController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.PlanterBirthSequenceControllerInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.PlanterLod2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.PlanterPikminNameUnit" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.PlanterReadyToPluckIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.StepCountMaterialPropertySetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Player.Locomotion.SimplePlayerLocomotion" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Player.Locomotion.SmoothPlayerLocomotion" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Player.PlayerAvatarUpdater" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Player.PlayerCircle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Player.PlayerController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Player.PlayerIconSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardAlbum.PostcardAlbumIconList" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardAlbum.PostcardAlbumItemIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardAlbum.PostcardAlbumItemRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardAlbum.PostcardAlbumItemView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardCarrierPikmin" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardGallery.PostcardGallery" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardGallery.PostcardGalleryInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardPoiChallengeInfo" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.GetPostcardAlbumSequence" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.GetPostcardAlbumSequenceWithMapAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.GotPostcardOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.PostcardAlbumPikminView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.PostcardExpeditionPathRecordMap" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.ReceivedPostcardConfirmOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.SnapPin" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.UnreceivedPostcardConfirmOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.UnreceivedPostcardConfirmOverlayInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.UnreceivedPostcardExpeditionMapController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardSpace" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardViewRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardViewSenderInfo" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardWithAlbumConfirmationView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.ReturningUser.WelcomeBackDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Rewards.RewardSelectionUI" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Settings.EditDisplayNameDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Settings.MapHiddenMode.HideForMapHiddenMode" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Settings.NoPlantingZone.NoPlantingZoneAdventureWindow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Settings.V2.HealthConnectConfirmationDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.AdditionalPurchaseButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.Catalog.ShopBannerGradationColorCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.Catalog.ShopSku" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.CoinDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.Inject.ShopInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.QuickPurchaseButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.QuickPurchaseConfirmation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopDetailsUIFluidContents" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.BundleItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ConfirmationAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemDialogHelpButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeAvatarItemPurchaseButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeAvatarItemView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeBasicInfoSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeBundleItemView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeCoinView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeCountChangeSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeDoubleUpgradeView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeDoubleUpgradeViewEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeExtrasView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeMissingItemView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeMultipleAvatarExtrasViewController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeMultipleAvatarItemsView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeSalesPeriodSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemExchangeSingleItemView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemMultipleExchangeInfoSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemPriceText" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemExchange.ShopItemPurchaseButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemTag" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopJapaneseLawButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopJapaneseLawButtons" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.SkuEventView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.SkuImage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Shop.SkuShopItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Social.AddFriend.AddFriendConfirmDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Social.AvatarConfirmationDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Social.FriendAlias.SetFriendAliasDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Sort.SortDirectionIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.Sort.SortingView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.SortV2.UI.SortUIEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.BannerBackground.StarChallengeBannerBackgroundCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.FinishSequence.StarChallengeFinishStatisticsSummaryModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.FriendInvite.StarChallengeInviterInfo" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Group.StarChallengeGroupCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Rank.StarChallengeRankCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationCarouselOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationCarouselOverlayInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationConfirmationPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationDetailPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationGuidePage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationOneStepPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationSuccessPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.StarChallengeRegistrationConfirmationDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.StarChallengeRegistrationGroupAnnouncement" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.StarChallengeRegistrationSuccessDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Rewards.StarChallengeGuaranteedRewardView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Rewards.StarChallengeGuaranteedRewardViewInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Rewards.StarChallengeRewardCompactItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Scene.FinishCard.StarChallengeFinishCardCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Scene.StarChallengeAvatarIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Scene.StarChallengeOngoingGroupLabel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Scene.StarChallengeSceneHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengePlantingStatisticsShareRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengePlayerStatisticShareRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeShareGallery" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeShareGalleryInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeShareImageHeader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeShareInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeStatisticSharePage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeStatisticsSummaryShareRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.StarChallengeAnnouncementDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.StarChallengeGroupName" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.StarChallengeHostIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.StarChallengeHostInfoButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.StarChallengeHostInfoButtonV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeGroupPercentageView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengePercentile" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengePlayerStatisticsView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeRankView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticCategoryIconButon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsBadgeView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsGroupPlantingView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsOverallView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsPlantingView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsSummaryView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Vibe.StarChallengeVibeButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Vibe.StarChallengeVibeCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Vibe.StarChallengeVibeSelectOverlay" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StepCard.StepCardDetailModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StepCard.StepCardReceiveModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StepCard.StepCardView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountAnimationStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountTexts" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.PatchReceiveDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchCatalogSwitcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchViewContainer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.StreetStrollTicketDetailPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.StreetStrollTicketDetailsSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Ticket.StreetStrollTicketIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.UnconfirmedNotification.Handler.PikminCategoryLevelUnlockedDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.UnconfirmedNotification.PikminCategoryLevelUpNotification" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.UnconfirmedNotification.WebstorePurchaseConfirmationDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.Share.YearlyLookbackShareCard" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.Share.YearlyLookbackShareGallery" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.Share.YearlyLookbackShareGalleryInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.Share.YearlyLookbackShareRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.YearlyLookbackDecorativeFlower" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.YearlyLookbackDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.YearlyLookbackLifelogBanner" preserve="all" />
+    <type fullname="Niantic.Ichigo.Game.YearlyLookback.YearlyLookbackStatsView" preserve="all" />
+    <type fullname="Niantic.Ichigo.I18n.MessageCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.I18n.MessageCatalogData" preserve="all" />
+    <type fullname="Niantic.Ichigo.Inject.IchigoGameObjectContext" preserve="all" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullDialogInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullWarningView" preserve="all" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullWarningViewShadowPart" preserve="all" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullWarningViewV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Lighting.BlobShadow" preserve="all" />
+    <type fullname="Niantic.Ichigo.Location.MapViewportForDeviceLocation" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.AddressablePrefabPlaceholder" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Extracts.ExtractCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.FlowerPetals.FlowerPetalCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.FlowerIconCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.FlowerKind" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.FlowerKindCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.PikminCrownFlowers.PikminCrownFlowerCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.PikminCrownFlowers.PikminCrownFlowerDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.PikminFlowerMesh" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.GiftBoxes.GiftBox" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.GiftBoxes.GiftBoxCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PikminCategories.TreasureCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PikminSeeds.PikminSeed" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PlantedPellets.PlantedPellet" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PlantedPellets.Sprout" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PoiFlower.PoiCampaignCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PoiFlower.PoiFlowerCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Postcards.PostcardCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceEffectCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceEffectPlaceholder" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceObject" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Stamp.StampCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Stamp.StampView" preserve="all" />
+    <type fullname="Niantic.Ichigo.ModelControllers.StepTanks.StepTankCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.LightingSystem.Scripts.FlipBookTextureController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.DecorAttachment.DecorRichAttachment" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.DecorAttachment.DecorRichAttachmentCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.DecorAttachment.DecorRichAttachmentContent" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.IkRig.SoftIK" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.Attachments.AttachmentPlaceholder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.GrabItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.GrabSettings" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.HipsController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.HornController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminEyeAnimationController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminHeadController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminLayerAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminMesh" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminSfx" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.PlayerAvatar.PlayerAvatarModel" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Socket.ModelSocket" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Socket.ModelSocketController" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Socket.ModelSocketRotationEnabler" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Socket.UIModelMask" preserve="all" />
+    <type fullname="Niantic.Ichigo.Models.Socket.UIModelSocket" preserve="all" />
+    <type fullname="Niantic.Ichigo.Partnership.PartnershipAssetCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.Partnership.PartnershipIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.Rendering.ActiveCameraBillboard" preserve="all" />
+    <type fullname="Niantic.Ichigo.Rendering.CandleEffect" preserve="all" />
+    <type fullname="Niantic.Ichigo.Rendering.FrustumCullingAdjuster" preserve="all" />
+    <type fullname="Niantic.Ichigo.Rendering.RequireOpaqueTexture" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sharing.ActiveForScreenshotShare" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sharing.ScreenshotShareLocationInfo" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sharing.ShareTextureButtons" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.AnimationEventSoundPlayer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.DeprecatedPlaySoundOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.IchigoButtonPlaySoundOnClick" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.PlaySoundOnBeginEdit" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.PlaySoundOnClick" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.PlaySoundOnFlick" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.PlaySoundOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.SfxEmitter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.SoundBank" preserve="all" />
+    <type fullname="Niantic.Ichigo.Sound.SoundBankLoader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Telemetry.ButtonEventRecorder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Telemetry.IchigoButtonEventRecorder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Telemetry.InputFieldEventRecorder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Telemetry.LongPressButtonEventRecorder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Telemetry.StartEventRecorder" preserve="all" />
+    <type fullname="Niantic.Ichigo.Telemetry.ToggleEventRecorder" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.AdaptiveTooltipUi" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.AdvancedInputFieldMovingItems" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.AspectRatioLayoutElement" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.AspectRatioShaderUpdater" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.AsyncActionButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.BoundedContentSizeFitter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ButtonBackButtonHandler" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ButtonBackgroundSizer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ButtonGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Canvases.CanvasOrderAdjuster" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Canvases.CanvasRectMask2DTransfer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Canvases.IchigoCanvas" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.CanvasGroupAnimations.ScaleFadeAnimation" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.CanvasSafeArea" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.CenteredGridLayoutGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ComponentToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ConstrainMeshBounds" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ContainerUpperBoundedLayoutElement" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Dialog.PetalAcquisitionMethodDialog.PetalAcquisitionMethodDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.DrumRollMonthPicker.DrumRollMonthPickerCell" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.DrumRollMonthPicker.DrumRollMonthPickerReel" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.DrumRollMonthPicker.DrumRollMonthPickerView" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.DrumRollMonthPicker.DrumRollMonthPickerViewInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.EmptyGraphic" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.EnhancedScrollerVirtualElementController" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FadeDisabler" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FadeDisablerGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FadeDisablerGroupActiveSynchronizer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FadeForScroller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FilterToggle.FilterToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FilterToggle.Petal.PetalFilter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FilterToggle.Pikmin.PikminFilter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ActionBar.ActionBarButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ActionBar.ActionButtonBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.AlphaChangeOnInteractable" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Buttons.DesignSystem.Purchase.DSPurchaseButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Buttons.DesignSystem.Purchase.IchigoButtonPriceLabel" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Buttons.FavoriteFriendToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.CarouselPageIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.CarouselView.CarouselView" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.CircularGauge" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ColorChangeOnInteractable" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ColorChangeOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.DesignSystem.Icons.IchigoIconCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.DesignSystem.Icons.IchigoIconCatalogSwitcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.DialogDefaultTextContainer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.DisableUnlessQuickPanelAtPosition" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryBackgroundImage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryContainer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryCount" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryCountTimer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryFavoriteStar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryFriendship" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryLifelogPhotoIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryMainImage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryMainImageShadow" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryMainModel" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryPrimaryText" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntrySecondaryText" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntrySpinner" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryStamp" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryWithYou" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.SingleCellGridEntryStyler" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAdapter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaChangeOnInteractable" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAsyncAction" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonBorderColorChangeOnInteractable" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonGraphicColorChangeOnInteractable" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonLayoutElement" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonProxy" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonSoundCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButtonDeprecated" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.LerpContents" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.LerpOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Lightbox.LightboxGallery" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Lightbox.LightboxGalleryPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Lightbox.LightboxGalleryUI" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Lightbox.TextureLightboxPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ListPager" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.MessageChangeOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.DailyFlowerPlantingDetailModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.FlowerPlantingStatsDayInfoSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.FlowerPlantingStatsMap" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.FlowerPlantingStatsModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.FlowerPlantingStatsModalInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.FlowerPlantingStatsPlantedFlowerCell" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.PikminDetailModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.Postcard.OpenPostcardGalleryButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.Postcard.PostcardAlbumDetailPageV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StarChallenge.StarChallengeDetailModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StarChallenge.StarChallengeDetailModalInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StarChallenge.StarChallengeDetailPage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StarChallenge.StarChallengeLifelogFinishCard" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModal" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModalBadgeSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModalBody" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModalDayInfoSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModalInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModalTotalStepsSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Modal.Modals.StepStatsModalWeeklyAverageSection" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.NavigationDialog.NavigationDialog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.NavigationDialog.NavigationDialogPikmin" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ObjectChangeOnInteractable" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.QuickPanel" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.QuickPanelBackground" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.QuickPanelEnhancedScrollerPadding" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.QuickPanelFooter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.QuickPanelScrollCloser" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.QuickPanelSizeMatcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.RecyclingGridListView" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.RecyclingGridListViewRow" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.RotateOnScreenRotation" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ScrollerEntryCatalog" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.StaticScrollerEntry" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.MonthlyCalendarWidgetV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.OverlayCutsceneHolder" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.CalendarWidgetDay" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.LifelogEntryIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.StepCrown" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.StepCrownOrFootprint" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetDay" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetReferenceLine" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetReferenceLineManager" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetWeek" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.WeeklyCalendarWidget" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.WeeklyStepCalendarWidget" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.FriendIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.GeneralRewardIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Gestures.DoubleTapZoomScreenTransformer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Gestures.PinchAndZoom" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Gestures.PinchAndZoomHint" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Gestures.TapPrefixedScreenTransformGesture" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.GradationShaderUpdater" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.GradientEffect" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.HelpshiftNotification.HelpshiftNotification" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.HideForZoomButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.HoloFoil.HoloFoilRotator" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.HumanizedTimeDisplay" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IchigoScrollbar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IchigoText" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IchigoTextLinkOpener" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IchigoTextMeshProUGUI" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IchigoTextOrTMPTextController" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IconLists.CountIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IconLists.IconList" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IconLists.IconListItem" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.IconLists.SkuSubIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ImageMeter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ImageMeterUnit" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Images.RawImageTextureFitter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Images.RotatableRawImage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Images.Uv1Supplier" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Images.UvScroller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.InputFields.InputFieldCharacterLimit" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.InputFields.InputFieldCharacterLimitIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.InputFields.InputFieldCharacterTypeFilter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LayoutElementConstraint" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LayoutElementConstraintByRect" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LayoutElementPreferredSizeController" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LayoutFriendlyPreferredSizeFitter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ListPagerPagerIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LocationCard" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LocationCategoryCompletionIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.LongPressButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.Annotations.MapAnnotationUpdater" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.Annotations.MapAnnotator" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.BirthMapSoundUnit" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.BirthMapWindow" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.BirthPlaceNote" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.MaskRendering.Inject.MapMaskRenderInstaller" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Map.MaskRendering.MapMaskRenderer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.MaximumLayoutGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.MiiIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.MultiColorProgressBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.MultiColorProgressRing" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.MultiOutline" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.MultiTouchScrollRect" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.NestableScrollRect" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ObjectChangeOnToggle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.OnScreenVisibilityObserver" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.PagerIndicator" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ParentSizeFitter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Pikmin.ListView.PikminSelector" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Pikmin.PikminCategoryInfo" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Pikmin.PikminHeartMeter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Pikmin.PikminStage.PikminStage" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Pikmin.PikminStage.PikminStageCameraController" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Pikmin.PikminStage.PikminStageController" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ProgressBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ProgressRing" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.QuantityLabel" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.RecedingScrollHandle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.RenderTextureSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Rewards.AvatarOutfitRewardIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Rewards.SeedlingRewardIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Rewards.SingleSpriteSetterRewardIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SafeAreaPadding" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ScaleOnPointer" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ScaleOnTap" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ScrollGradient" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ScrollRectMovementTypeUpdater" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Search.Expedition.ExpeditionSearchBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Search.Flowers.FlowerSearchBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Search.Pikmin.PikminSearchBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Search.Postcards.PostcardSearchBar" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SearchView.SearchView" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SearchView.SearchViewLayout" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SearchView.ShowWhenSearchViewClosed" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SimpleRecyclingListView" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Spinner.Spinner" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SpriteDisplayOptionIcon" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.AnimationConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.BorderGraphic" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.ElevationGraphic" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.EnhancedScrollerPadding" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.FontStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.GradientEffectStyle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.GraphicColorStyle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.GridListViewStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.IchigoButtonStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.LayoutPadding" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.LayoutSpacing" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.QuickPanelPositionConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.QuickPanelStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.RadiusGraphic" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.RectPadding" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.SingleCellGridEntryStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.Styles.UIStyleConfig" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.SubGradientEffect" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.TextPreferredSizeAsMinSize" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ThreeDotLoader.ThreeDotLoader" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.TooltipUi" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.TranslucentBlur.TranslucentBlurView" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.UIHighlightEffect.UIHighlightEffectHandler" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.UIHighlightEffect.UIHighlightEffectTagged" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.UITransitionMarker" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.WarpToCircle" preserve="all" />
+    <type fullname="Niantic.Ichigo.UI.ZoomButton" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AdaptiveAxisLayoutGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AlignWithCameraUp" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.Animation.AnimationActionHandler" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AsyncAssetReferenceSpriteLoader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AsyncMessageLoader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AsyncSpriteLoader" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AsyncSpriteSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AsyncTextSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.AsyncTextureSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.CanvasGroupAlphaObserver" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DisableScrollingWhenSinglePage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DragEventPasser" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DualStateSelectable.DualStateSelectable" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DualStateSelectable.DualStateSelectableInteractableSyncer" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DualStateSelectable.IchigoButtonDualStateSelectable" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DualStateSelectable.ToastWhenMessage" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DynamicLayout.DynamicLayoutRoot" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.DynamicLayout.DynamicTextLayoutElement" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.Effect.EffectEventReceiver" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.EnhancedScrollerExtendedFocus" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.EqualLayout.Deprecated.DeprecatedEqualLayoutGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.EqualLayout.EqualLayoutGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.FixTimeScaleModuleV2" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.FollowTransform" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.HorizontalWrapLayoutGroup" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.JointAttacher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.MaintainVisualSizeWithCameraHeight" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.NetworkImageSetter" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.PagedForViewport" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.ParticleLifetimeEvents" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.PrecomputedSizeCache" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.RandomTransition" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.RectDimensionChangeListener" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.RectMatcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.RectSizeMatcher" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.ScrollSnapping.ScrollSnapper" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.SetSizeDeltaFromSafeArea" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.SharedDisabler" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.WorldSpaceUIScaler" preserve="all" />
+    <type fullname="Niantic.Ichigo.Utils.YawToAdventureMapCamera" preserve="all" />
+    <type fullname="Niantic.Ichigo.VfxTools.Scripts.VfxProperty" preserve="all" />
+    <type fullname="Niantic.Ichigo.Experimental.Images.UberGraphic/SubShape" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.GradientPreset" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.IchigoText/Plurality" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.SerializableDefaultDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.SerializableDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.SerializableKeyValuePair`2" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.Border" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.BorderEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.ColorName" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.ColorType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.Elevation" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.ElevationEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.FontStyleConfig/FontConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.GradientName" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.Radius" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.RadiusEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.Spacing" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardRenderer/Target" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.GradationShaderColorStyle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.LocationCategoryCompletionIcon/ColorState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Map.MaskRendering.MapMaskingEntry/Settings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.ColorStyle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.IchigoButtonStyleConfig/Style" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Sound.SoundBankReference" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StarChallengeInfoProto/Types/RegistrationGuideProto" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Data.IStarChallenge" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationCarouselOverlay/Param" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationConfirmationPage/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationDetailPage/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationGuidePage/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationOneStepPage/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Registration.CarouselOverlay.StarChallengeRegistrationSuccessPage/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.PrefabReferenceFactory`2/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.StarChallengeHostImageType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.BlockingTaskQueue/Settings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.DesignSystem.Icons.Icon" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.ButtonStyle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaCatalog/AlphaLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaCatalog/AlphaTypeLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaCatalog/ButtonEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaCatalog/VersionLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonAlphaType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonCatalog/StyleCatalog" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonCatalog/StyleCatalog/LayoutSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorCatalog/ButtonEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorCatalog/ColorLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorCatalog/ColorTypeLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorCatalog/State" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorCatalog/VersionLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonColorType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.IchigoButton.IchigoButtonVersion" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.StringOrMessageId" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.ReactiveField`1" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Sound.WwiseEventCatalog/EventString" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StarChallengeVibeProto/Types/Type" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Vibe.StarChallengeVibeCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopItemTag/Tag" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.GridListViewStyleConfig/Padding" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.GridListViewStyleConfig/Spacing" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Lightbox.LightboxGalleryUI/ModalTheme" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Lightbox.LightboxGalleryUI/Theme" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.Catalog.MonthlyMissionEventCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.Catalog.MonthlyMissionEventCatalog/MonthlyMissionEventPassOfferDialogReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.PoiBlockerModelCatalog/IconDictionary" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.PoiBlockerModelCatalog/ModelDictionary" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomColor" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.SingleMushroom/AssetReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomCatalog/Handle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.MushroomCatalog/Handle/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.Postcard2Proto/Types/PostcardTheme" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Stamp.StampCatalog/Stamps" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.Dowser.CategoryIconButton/ColorState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.EventPass.MonthlyMissionEventPassOfferDialog/SkuDependentLayout" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.TreasureType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PikminCategories.TreasureCatalog/TreasureEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PikminCategories.TreasureCatalog/TreasureNameContext" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.SerializableSet`1" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.GeneralRewardProto/RewardTypeOneofCase" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.UnreceivedItemsProto/Types/SelectableItemDialogPresentationProto/Types/FinalRewardBackgroundType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemHeader/Style" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.CollectedCheckIconSetter/BackgroundSetting" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.SelectableReward.SelectableRewardOverlay/ViewType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Rewards.SeedlingRewardIcon/Options" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Rewards.SingleSpriteSetterRewardIcon/IconSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.BannerBackground.StarChallengeBannerBackgroundCatalog/BannerData" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.BannerBackground.StarChallengeBannerBackgroundCatalog/BannerType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.BannerBackground.StarChallengeBannerBackgroundCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.BannerBackground.StarChallengeBannerBackgroundCatalog/StarChallengeType" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.PikminProto/Types/Type" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.PikminRichAttachmentProto/Types/LayoutType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.DecorAttachment.DecorRichAttachmentCatalog/PikminTypeVariationMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarModel/MultiKatyushaData" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarModel/SubModel" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitPresetCatalog/Catalog" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitPresetCatalog/CatalogItem" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitPresetCatalog/CatalogKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.AvatarEditor.OutfitNameCatalog/Catalog" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.AvatarEditor.OutfitNameCatalog/CatalogKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.AvatarEditor.OutfitNameCatalog/OutfitInfo" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.Sway.FloatersBehaviorController/OffsetNode" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.Sway.FloatersWaveAnimation/AxisSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog/AvatarOutfitCategory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.DefaultOverlapSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.ExceptionalOverlapSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.OverlapSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.SpecificOverlapSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog/Handle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog/Handle/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.AssetManagement.AssetReferenceAnimatorController" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.AssetManagement.AssetReferenceAnimatorOverrideController" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarModelReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog/Catalog" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog/CatalogItem" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarOutfitCatalog/CatalogKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Avatar.AvatarBlinkController/BlinkPattern" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.MapDecoration.MapDecoratorCatalog/MapDecoratorReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.I18n.MessageCatalog/CatalogDataInfo" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.I18n.MessageCatalogData/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.DayPicker.MiniPanelDayPickerReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.StickerPicker.MiniPanelStickerPickerReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.AdvancedInputFieldMovingItems/MoveForEditStateKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.AdvancedInputFieldMovingItems/MoveForExpeditionState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ActionBar.ActionButtonBar/ActionBarButtonSet" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.QuickPanelPositionConfig/PositionConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardView/LayoutSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardView/LayoutSettings/Version" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.ItemSelectSequence/Appearance" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Data.StarChallengeGroupType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengePlantingStatisticsShareRenderer/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengePlayerStatisticShareRenderer/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeShareGallery/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Share.StarChallengeStatisticsSummaryShareRenderer/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.PrefabReferenceFactory`1/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountAnimationStyleConfig/ColorForStepMilestoneLevel" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountAnimationStyleConfig/ColorForStepMilestoneLevelConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountAnimationStyleConfig/ScaleForStepMilestoneLevel" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StepCount.StepCountAnimationStyleConfig/ScaleForStepMilestoneLevelKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetDay/ColoredForFocusState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetDay/ColoredForFocusStateConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.WeeklyStepCalendarWidgetDay/StepThreshold" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookCardView/LayoutSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2CategoryIconLevel/IconHolder" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.OnboardingV2.OnboardingBlocker/StateConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.OnboardingV2.OnboardingState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthLandingPosition/Layout" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.PlanterV2.BirthPictureBookWindowV2/CollectionCompletedAnimationParameter" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.FixTimeScaleSetting" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionCatalog/Piece" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Puzzle.PuzzleCollectionCatalog/Puzzle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Group.StarChallengeGroupCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.FriendChallenge.FriendChallengeMilestones/MilestoneMessage" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.GetPostcardAlbumSequence/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.GetPostcardAlbumSequenceWithMapAnimation/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardReception.SnapPin/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.SkuMonthlyMissionDetailsProto/Types/EventPassportDescriptionVersion" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Events.MonthlyMission.EventPass.MonthlyMissionEventPassBenefitsCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Settings.V2.HealthConnectConfirmationDialog/PermissionStatusIconSetting" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Protos.PermissionStatus" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardRenderer/TextureSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Postcard.PostcardTextureSizeType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.GrabSettings/Settings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.GrabSettings/Shake" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.SearchView.SearchView/AnimationData" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Events.EventProgressViewStyleConfig/GradationColorConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogCalendarTabActivator/LifelogCalendarTabView" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogCalendarTabActivator/MoveForLifelogCalendarTab" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.LifelogCalendarTabActivator/MoveForLifelogCalendarTabKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.ScrollerEntryCatalog/Config" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.CalendarWidgetDayBase/DayState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.Widget.Widgets.Parts.CalendarWidgetDayBase/DisplaySettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Sort.SortItemType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.GridEntry.GridEntryContainer/Config" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Styles.RectSpacing" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.AnnotatedMap.Panels.PostcardPicker.PostcardAlbum.PostcardDetailPageAlbumSectionIconView/Layout" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.OptionalText" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.GamePlayFlagProto/Types/Flag" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.AttackingPikminsDisplay/PikminIcon" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Invite.TicketUI.MushroomInviteTicketViewDialog/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketTutorialDialog/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketViewDialog/Args" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Challenge.MushroomChallenge.Ticket.MushroomChallengeTicketViewDialog/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExpeditionCompleteTicketUseFxReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketUseDialog/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.CompleteTicket.ExplorationCompleteTicketViewDialog/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListItem/ColoredForExpeditionState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListItem/ColoredForExpeditionStateConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListItem/ExpeditionStateView" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListItem/MoveForExpeditionState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.ListPanel.ExpeditionListItem/MoveForExpeditionStateKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.HumanizedTimeDisplay/TimeDisplay" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.PunchParams" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/CompleteAnimationParam" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/DecoCollectionAnimationParams" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/DecoCollectionAnimationType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/DecoCollectionFocusViewAnimationParam" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/FallAnimationParam" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/FocusAnimationParam" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionAnimationConfig/SfxParam" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionViewParam" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionViewType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionWindow" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionWindowReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookCategoryViewOverlay/Footer" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PictureBookV2Controller/SelectionOffset" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PikminCategoryLevelProgressBar/ActiveStateView" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.Scroller.PikminCategoryLevelProgressBar/LockedStateView" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Expedition.DetailPanel.ExpeditionDetailPageV2/UIState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardCatalog/PikminModelScaleMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardInstaller/Options" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.PikminShareCard.PikminShareCardRenderer/Factory" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.AssetManagement.AssetReferenceSpriteAtlas" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceCatalog/ResourceInfo" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceCatalog/ResourceObjectReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceEffectType" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.PoiCampaign/Types/ModelId" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PoiFlower.PoiCampaignCatalog/ReferenceEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Flowers.FlowerVisualType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PoiFlower.PoiFlowerCatalog/AssetReferenceCatalog" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PoiFlower.PoiFlowerCatalog/CatalogKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.PoiFlower.PoiFlowerCatalog/ReferenceEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.FlowerId" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.PikminCrownFlowers.PikminCrownFlowerCatalog/CrownFlowerEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Flowers.PikminCrownFlowers.PikminCrownFlowerCatalog/PikminStemEntry" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.FlowerProto/Types/Type" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.FlowerPetals.FlowerPetalCatalog/Bottle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.FlowerPetals.FlowerPetalCatalog/BottleType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.FlowerPetals.FlowerPetalCatalog/PickedAnimationConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.FlowerPetals.FlowerPetalCatalog/PlantingAnimationConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.FlowerPetals.FlowerPetalCatalog/PlantingConfigMapper" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.AssetReferencePikminAnimatorController" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.PikminAssetProto/Types/Id" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminAnimatorControllerCatalog/Handle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminAnimatorControllerCatalog/Handle/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemDialogHeader/Header" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemDialogHeader/HeaderType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemDialogItemFrame/Frame" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GotItemDialogItemFrame/ItemFrameType" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StarChallengeStepsRank/Types/Id" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Events.MultipleRewardIconView/RewardSpriteLoaderArray" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Shop.Catalog.ShopBannerGradationColorCatalog/GradationColor" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Shop.ShopDetailsUIFluidContents/Mode" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullDialog/InventoryTypeSettings" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullDialog/InventoryTypeSettingsEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Inventory.InventoryFullDialog/InventoryTypeSettingsLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.Framework.LerpContentsFor`1" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.BadgeProto/Types/BadgeType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIconCatalog/BadgeCounterIcons" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIconCatalog/BadgeEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIconCatalog/BadgesByType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIconCatalog/SizeConfig" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeIconCatalog/SizePreset" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.BadgeProto/Types/DescriptionType" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.FlowerProto/Types/FlowerKind" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/BadgeAchievementMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/BadgeMissionMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/BadgeMissionPromptMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/BadgeNameMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/BadgeProgressMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/BadgeRemainingCountMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/FlowerToBadgeTypeMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeMessagesCatalog/RankNameMap" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.MessageMapper`1" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.DrumRollMonthPicker.DrumRollMonthPickerCell/CellStatus" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Pickers.DayPicker.WeeklyRow/TextButton" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Achievement.AchievementUnlockFeatureCatalog/AssetReferenceAchievementUnlockFeatureEntry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Achievement.AchievementUnlockFeatureCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Settings.EditDisplayNameDialog/EditTypeView" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Player.Locomotion.SmoothPlayerLocomotion/Param" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.DayBasicInfos.DayBasicInfoSteps/MoveForState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.DayBasicInfos.DayBasicInfoSteps/MoveForStateKeyVal" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.DayBasicInfos.DayBasicInfoSteps/State" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.DayBasicInfos.DayBasicInfoSteps/ViewForState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.LifelogV5.Decorations.LifelogDecorationFlowerPlantingIcons.LifelogDecorationFlowerPlantingIcon/FlowerConfig" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StepTank2Proto/Types/TankType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.StepTanks.StepTankCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.GiftBoxes.GiftBoxCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.GiftBoxes.GiftBoxCatalog/Type" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.GiftBoxes.GiftBoxReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ActiveEventBonus.ActiveEventBonusCatalog/BonusType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ActiveEventBonus.ActiveEventBonusCatalog/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StreetStroll/Types/Id" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StreetStroll/Types/PatchFrame" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.StreetStroll/Types/PatchSize" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchView/AssetReference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchCatalog/Handle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.StreetStrollPatchCatalog/Handle/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.JointAttacher/Config" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.AdventureScene.FlowerPlantingBooster.FlowerPlantingBoosterChangeColorOnPlantFlower/ColorState" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.ColoredForConfig`1" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.UI.ColoredFor`1" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMaterialAnimationController/Setting" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMaterialAnimationController/Target" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.HornController/CrownGazeData" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminHeadController/JointInfo" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.PikminAnimatorMask/AnimatorMask" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Effects.IikVfx.VfxAsset" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminSpringBoneAnimationController/Setting" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMaterialAnimationController/MaterialAnimationData" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Models.Pikmin.Scripts.MaskDisablerClips/ClipSetting" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMeshCatalog/Handle" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.PikminMeshCatalog/Handle/Reference" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Pikmins.AssetReferencePikminMesh" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Social.AvatarConfirmationDialog/Buttons" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StreetStroll.Patch.PatchReceiveDialog/Style" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Effects.CollectFruitsEffect/EffectGroup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Extracts.Extract" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.Extracts.ExtractCatalog/DefaultEffectData" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.UnreceivedItemsProto/Types/GiftBoxProto/Types/GiftBoxType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.ItemGet.GeneralGiftBoxCatalog/GiftBoxAssets" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.Partnership" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Partnership.PartnershipAssetCatalog/Assets" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Partnership.PartnershipAssetCatalog/AssetsLookup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.DecoCollectionCompleteAnimationGroup/AnimationGroup" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.CardRow/CardAssignment" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Trump.CardRow/CardElement" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongRow/MahjongTileAssignment" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Mahjong.MahjongRow/MahjongTileElement" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaRow/HanafudaCardAssignment" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.Badges.BadgeDetailsView.Types.DecoCollector.CollectionView.Hanafuda.HanafudaRow/HanafudaElement" preserve="nothing" serialized="true" />
+    <type fullname="Ichigo.Proto.OfficialPartyWalk/Types/Id" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsSummaryView/TeamStatsTexts" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeRankView/RankIconColorType" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.StarChallenge.Statistics.StarChallengeStatisticsViewMode" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceEffectPlaceholder/EffectKvp" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.ModelControllers.ResourceObjects.ResourceEffectPlaceholder/EffectPlaceholderMapper" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Game.MapObjects.MapPoiCampaigns.PoiCampaignModel/LodSet" preserve="nothing" serialized="true" />
+    <type fullname="Niantic.Ichigo.Utils.TweenConfig`1" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineBlenderSettings" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain" preserve="all" />
+    <type fullname="Cinemachine.CinemachineComposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineHardLockToTarget" preserve="all" />
+    <type fullname="Cinemachine.CinemachineHardLookAt" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineTransposer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="EnhancedUI.EnhancedScroller.EnhancedScroller" preserve="all" />
+    <type fullname="EnhancedUI.EnhancedScroller.EnhancedScrollerCellView" preserve="all" />
+    <type fullname="TouchScript.Gestures.FlickGesture" preserve="all" />
+    <type fullname="TouchScript.Gestures.LongPressGesture" preserve="all" />
+    <type fullname="TouchScript.Gestures.TapGesture" preserve="all" />
+    <type fullname="TouchScript.Layers.StandardLayer" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/BrainEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+    <type fullname="TouchScript.Gestures.Gesture/GestureEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+    <type fullname="Coffee.UIExtensions.AnimatableProperty" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="com.unity.animations.springbone, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.Animations.SpringBones.SpringBone" preserve="all" />
+    <type fullname="Unity.Animations.SpringBones.SpringBonePivot" preserve="all" />
+    <type fullname="Unity.Animations.SpringBones.SpringCapsuleCollider" preserve="all" />
+    <type fullname="Unity.Animations.SpringBones.SpringManager" preserve="all" />
+    <type fullname="Unity.Animations.SpringBones.SpringPanelCollider" preserve="all" />
+    <type fullname="Unity.Animations.SpringBones.SpringSphereCollider" preserve="all" />
+    <type fullname="Unity.Animations.SpringBones.AngleLimits" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Niantic.TokyoStudio.Common.Rx, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Niantic.TokyoStudio.Common.Rx.Unity.DestroyTrigger" preserve="all" />
+    <type fullname="Niantic.TokyoStudio.Common.Rx.Unity.PointerTrigger" preserve="all" />
+  </assembly>
+  <assembly fullname="Niantic.TokyoStudio.Map, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Niantic.TokyoStudio.Map.ImageView.MapImageView" preserve="all" />
+    <type fullname="Niantic.TokyoStudio.Map.ImageView.MapImageViewCamera" preserve="all" />
+    <type fullname="Niantic.TokyoStudio.Map.ImageView.TransientMapImage" preserve="all" />
+  </assembly>
+  <assembly fullname="nia-unity-accessibility-ids, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Niantic.Platform.AccessibilityIds.AccessibleObject" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceT`1" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceSprite" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceTexture" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Animation.Rigging, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animations.Rigging.BoneRenderer" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.ChainIKConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiAimConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiParentConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiPositionConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiRotationConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.Rig" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.RigBuilder" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.TwistCorrection" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.TwoBoneIKConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiAimConstraintData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiPositionConstraintData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.RigLayer" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.Vector3Bool" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.WeightedTransform" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.WeightedTransformArray" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.TwoBoneIKConstraintData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiRotationConstraintData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.TwistCorrectionData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiParentConstraintData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.ChainIKConstraintData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Timeline, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Timeline.ActivationPlayableAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.ActivationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.AnimationTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerTrack" preserve="all" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Timeline.MarkerList" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineAsset/EditorSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Timeline.TimelineClip" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AI.NavMeshObstacle" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animations.PositionConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.AvatarMask" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Texture2DArray" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Color" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectTransform/Axis" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.DirectorModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Playables.PlayableDirector" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemForceField" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Zenject, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Zenject.GameObjectContext" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
